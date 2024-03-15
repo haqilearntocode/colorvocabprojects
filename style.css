@@ -1,0 +1,29 @@
+*{
+    font-weight: normal;
+}
+
+.image-color{
+    width: 200px;
+    height: 200px;
+}
+
+h4[value="red"]{
+    color:red;
+}
+
+#blue{
+    color: blue;
+}
+
+h4[value="orange"]
+{
+    color: orange;
+}
+
+#pink{
+    color: pink;
+}
+
+.Black{
+    color:black ;
+}
